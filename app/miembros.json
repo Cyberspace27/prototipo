@@ -1,0 +1,7 @@
+[
+{"no":"1", "nombre":"Carmen", "fidelidad":3,"fechaUnion":"3/5/10","tipoMiembro":"Free"},
+{"no":"2", "nombre":"Juan  ", "fidelidad":4,"fechaUnion":"6/4/05","tipoMiembro":"Premium"},
+{"no":"3", "nombre":"Maria ", "fidelidad":6,"fechaUnion":"7/8/12","tipoMiembro":"Free"},
+{"no":"4", "nombre":"Mayra ", "fidelidad":7,"fechaUnion":"10/9/10","tipoMiembro":"Premium"},
+{"no":"5", "nombre":"Jesus ", "fidelidad":9,"fechaUnion":"11/6/11","tipoMiembro":"Premium"}
+]
